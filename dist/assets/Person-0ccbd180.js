@@ -1,0 +1,1 @@
+import{r,k as a,l as t}from"./main-1d195725.js";var e={},u=a;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,v=u(r()),s=t,d=(0,v.default)((0,s.jsx)("path",{d:"M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"}),"Person");o=e.default=d;export{o as d};

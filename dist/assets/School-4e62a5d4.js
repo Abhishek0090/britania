@@ -1,0 +1,1 @@
+import{r,k as a,l as t}from"./main-1d195725.js";var e={},l=a;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,u=l(r()),v=t,d=(0,u.default)((0,v.jsx)("path",{d:"M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3 1 9l11 6 9-4.91V17h2V9L12 3z"}),"School");o=e.default=d;export{o as d};

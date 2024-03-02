@@ -1,0 +1,1 @@
+import{r,k as a,l as t}from"./main-1d195725.js";var e={},o=a;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,l=o(r()),d=t,i=(0,l.default)((0,d.jsx)("path",{d:"M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"}),"DoneTwoTone");u=e.default=i;export{u as d};

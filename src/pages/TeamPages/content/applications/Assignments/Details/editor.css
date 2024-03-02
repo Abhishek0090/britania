@@ -1,0 +1,46 @@
+/* Style for the container holding the editor and content display */
+.editor-container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Style for the editor toolbar */
+.toolbarClassName {
+  /* Add your custom styles here */
+  color: "#000000";
+}
+
+/* Style for the editor wrapper */
+.wrapperClassName {
+  /* Add your custom styles here */
+  color: "#000000";
+}
+
+/* Style for the editor itself */
+.editorClassName {
+  /* Add your custom styles here */
+  color: "#000000";
+}
+
+/* Style for the content display area */
+.content-display {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+/* Additional custom styles */
+/* Add any additional custom styles here */
+
+.assignmail ol,
+menu {
+  list-style: auto;
+}
+.assignmail ul,
+menu {
+  list-style: disc;
+}
+
+/* mail format css */
+

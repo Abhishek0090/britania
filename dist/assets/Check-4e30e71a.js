@@ -1,0 +1,1 @@
+import{r,k as a,l as t}from"./main-1d195725.js";var e={},u=a;Object.defineProperty(e,"__esModule",{value:!0});var l=e.default=void 0,o=u(r()),d=t,i=(0,o.default)((0,d.jsx)("path",{d:"M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"}),"Check");l=e.default=i;export{l as d};
